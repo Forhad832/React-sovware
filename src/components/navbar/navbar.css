@@ -1,0 +1,28 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav_container{
+    display: flex;
+    align-items: center;
+  
+}
+.nav_link{
+    font-size: 16px;
+    font-weight: 500;
+    margin-left: 24px;
+    text-decoration: none;
+}
+.nav_link:hover{
+    color: #fc368c;
+}
+.logo h2{
+    color: gray;
+}
+.logo h2 span{
+    color: #000;
+}
+.h-content{
+    position: relative;
+  }
