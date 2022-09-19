@@ -1,10 +1,10 @@
 import React from 'react'
 
-const Card = ({img,titleText,paraText}) => {
+const Card = ({imge,titleText,paraText}) => {
   return (
    
       <div className='col'>
-            <img src={img}/>
+            <img src={imge}/>
             <h4>{titleText}</h4>
             <p>{paraText}</p>
       </div>

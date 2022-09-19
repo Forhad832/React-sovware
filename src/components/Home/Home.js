@@ -42,7 +42,7 @@ const Home = () => {
       />
         </div>
         <div className='section bg-2'>
-        <DashboardTwo img={TitleImg} image={IMG2}
+        <DashboardTwo imge={TitleImg} image={IMG2}
         titleText='DashboardMarket' paraText='DashboardMarket is the dedicated template marketplace for admin dashboard templates. With a wide selection of templates built with the latest technologies like  you will be able to find your desired templates from DashboardMarket. Plus, our team of experts will work with you to provide both the frontend and backend service that meets your specific needs.' 
 
         btnText={`www.wpwax.com`}
@@ -50,7 +50,7 @@ const Home = () => {
         </div>
 
         <div className='section bg-3'>
-        <Dashboard image={IMG3} img={TitleImg2}
+        <Dashboard image={IMG3} imge={TitleImg2}
         titleText='jsNorm' paraText='jsNorm is a resource hub for JavaScript based products. You can get various JavaScript related products including VueJS, React, Laravel, Angular  Bootstrap based products. Moreover, jsNorm comprises different guides, tips, and tricks on JavaScript and its frameworks.' 
 
         btnText={`www.jsnorm.com`}
@@ -58,7 +58,7 @@ const Home = () => {
         </div>
 
         <div className='section bg-4'>
-        <DashboardTwo image={IMG4}  img={TitleImg3}
+        <DashboardTwo image={IMG4}  imge={TitleImg3}
         titleText='Directorist' paraText={`Directoirst is the fast-growing WordPress directory plugin.
         This is a full fledged directory listing solution based on the
         most popular CMS, WordPress. Using this product, you'll
@@ -78,12 +78,12 @@ const Home = () => {
     </div>
     <div  className='grid'>
             
-            <Card  img={CardImg1} titleText={`JAVASCRIPT`} paraText={`We're developing a dedicated JavaScript-based marketplace which has never been done before. You'll find several JavaScript-based exclusive solutions in the coming days.`}/>
+            <Card  imge={CardImg1} titleText={`JAVASCRIPT`} paraText={`We're developing a dedicated JavaScript-based marketplace which has never been done before. You'll find several JavaScript-based exclusive solutions in the coming days.`}/>
          
     
-         <Card  img={CardImg1} titleText={`Artificial Intelligence`} paraText={`Working with AI is one of our dreams. In 2021, we have planned to integrate AI systems with some of our existing products and we're really excited to make it possible for our users.`}/>
+         <Card  imge={CardImg1} titleText={`Artificial Intelligence`} paraText={`Working with AI is one of our dreams. In 2021, we have planned to integrate AI systems with some of our existing products and we're really excited to make it possible for our users.`}/>
     
-         <Card  img={CardImg1} titleText={`Brand New WP Products`} paraText={`We're planning to release some exciting brand new generic & niche based WordPress based products (plugins and themes) in the next few years to make people’s life easier than ever.`}/>
+         <Card  imge={CardImg1} titleText={`Brand New WP Products`} paraText={`We're planning to release some exciting brand new generic & niche based WordPress based products (plugins and themes) in the next few years to make people’s life easier than ever.`}/>
             </div>
     </div>
       

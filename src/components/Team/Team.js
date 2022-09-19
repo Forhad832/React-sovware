@@ -9,11 +9,11 @@ const Team = () => {
     </div>
      <div className='grid-2'>
       {teamData.map((team)=>{
-        const {id,img,name,position} = team;
+        const {id,imge,name,position} = team;
 
         return (
             <article key={id}>
-                <img className='rounded' src={img} />
+                <img className='rounded' src={imge} />
                 <h4>{name}</h4>
                 <p>{position}</p>
             </article>

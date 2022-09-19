@@ -1,6 +1,6 @@
 import React from 'react'
 
-const DashboardTwo = ({img,image,titleText,paraText,btnText}) => {
+const DashboardTwo = ({imge,image,titleText,paraText,btnText}) => {
  
     return (
      <div>
@@ -8,7 +8,7 @@ const DashboardTwo = ({img,image,titleText,paraText,btnText}) => {
       
         <div className='col-6'>
           <div className='d-content'>
-            <div className='box'> <img src={img}/></div>
+            <div className='box'> <img src={imge}/></div>
             <h3 className='green title'>{titleText}</h3>
             <p>{paraText}</p>
   

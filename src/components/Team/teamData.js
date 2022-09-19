@@ -35,187 +35,187 @@ import IMG31 from './32.png'
 export const teamData = [
     {
         id:1,
-        img:IMG1,
+        imge:IMG1,
         name:'Masud Rana',
         position:'CEO & Founder'
     },
     {
         id:2,
-        img:IMG2,
+        imge:IMG2,
         name:'Robiul Islam Sumon',
         position:'Co-Founder'
     },
     {
         id:3,
-        img:IMG3,
+        imge:IMG3,
         name:'Ripon Sardar',
         position:'Senior Manager'
     },
     {
         id:4,
-        img:IMG4,
+        imge:IMG4,
         name:'Abdur Rahim',
         position:'COO & Chief Design Officer'
     },
     {
         id:5,
-        img:IMG5,
+        imge:IMG5,
         name:'Md Obidullah (obiPlabon)',
         position:'Chief Technology Officer'
     },
     {
         id:6,
-        img:IMG6,
+        imge:IMG6,
         name:'Rafiz Sejim',
         position:'Chief Product Officer'
     },
     {
         id:7,
-        img:IMG7,
+        imge:IMG7,
         name:'Syed Sazzadul Bari',
         position:'Chief Marketing Officer'
     },
     {
         id:8,
-        img:IMG8,
+        imge:IMG8,
         name:'Kowsar Hossain',
         position:'Software Engineer'
     },
     {
         id:9,
-        img:IMG9,
+        imge:IMG9,
         name:'Rafiqul Islam',
         position:'Software Engineer'
     },
     {
         id:10,
-        img:IMG10,
+        imge:IMG10,
         name:'Shamim Ahmed',
         position:'Software Engineer'
     },
     {
         id:11,
-        img:IMG11,
+        imge:IMG11,
         name:'Nazmul Hasan',
         position:'Software Engineer'
     },
     {
         id:12,
-        img:IMG12,
+        imge:IMG12,
         name:'Armanul Islam',
         position:'Software Engineer'
     },
     {
         id:13,
-        img:IMG13,
+        imge:IMG13,
         name:'Nur Mohammad Ayat',
         position:'HR & Admin'
     },
     {
         id:14,
-        img:IMG14,
+        imge:IMG14,
         name:'Al Suzaud Dowla',
         position:'Content Strategist'
     },
     {
         id:15,
-        img:IMG15,
+        imge:IMG15,
         name:'Syed Galib Ahmed',
         position:'Software Engineer'
     },
     {
         id:16,
-        img:IMG16,
+        imge:IMG16,
         name:'Rezaul Islam',
         position:'UI/UX Designer'
     },
     {
         id:17,
-        img:IMG17,
+        imge:IMG17,
         name:'Rabbi Islam',
         position:'Frontend Developer'
     },
     {
         id:18,
-        img:IMG18,
+        imge:IMG18,
         name:'Woadud Akand',
         position:'Software Engineer'
     },
     {
         id:19,
-        img:IMG19,
+        imge:IMG19,
         name:'Tanjim Hasan',
         position:'Software Engineer'
     },
     {
         id:20,
-        img:IMG20,
+        imge:IMG20,
         name:'Roman Ahmed Adnan',
         position:'Software Engineer'
     },
     {
         id:21,
-        img:IMG21,
+        imge:IMG21,
         name:'Saikat Hasan',
         position:'Software Engineer'
     },
     {
         id:22,
-        img:IMG22,
+        imge:IMG22,
         name:'Md Mehedi Hasan',
         position:'Software Engineer'
     },
     {
         id:23,
-        img:IMG23,
+        imge:IMG23,
         name:'Hamim Khan',
         position:'Technical Content Writer'
     },
     {
         id:24,
-        img:IMG24,
+        imge:IMG24,
         name:'Fahim Fida',
         position:'Technical Content Writer'
     },
     {
         id:25,
-        img:IMG25,
+        imge:IMG25,
         name:'Tayar Al Mahdi',
         position:'Support Engineer'
     },
     {
         id:26,
-        img:IMG26,
+        imge:IMG26,
         name:'Sheikh Faysal',
         position:'Support Lead'
     },
     {
         id:27,
-        img:IMG27,
+        imge:IMG27,
         name:'Rashedul Islam',
         position:'Support Engineer'
     },
     {
         id:28,
-        img:IMG28,
+        imge:IMG28,
         name:'Ibrahim Riaz',
         position:'Frontend Developer'
     },
     {
         id:29,
-        img:IMG29,
+        imge:IMG29,
         name:'Nazmul Karim Nabil',
         position:'Mobile App Developer'
     },
     {
         id:30,
-        img:IMG30,
+        imge:IMG30,
         name:'Md Shakil Hossen',
         position:'Mobile App Developer'
     },
     {
         id:31,
-        img:IMG31,
+        imge:IMG31,
         name:'Ashik Rahman',
         position:'Motion Graphics Designer (Intern)'
     },
