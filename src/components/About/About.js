@@ -24,14 +24,14 @@ const About = () => {
             <div className='imageFeature'>
               <div className='grid'>
                 <div className='column'>
-                  <img src={IMG1} alt="fist image"/>
+                  <img src={IMG1} alt="fist "/>
                 </div>
                 <div className='column'>
-                  <img src={IMG2} alt="fist image"/>
+                  <img src={IMG2} alt="fist "/>
                 </div>
                 <div className='column'>
-                  <img src={IMG3} alt="fist image"/>
-                  <img src={IMG4} alt="fist image"/>
+                  <img src={IMG3} alt="fist "/>
+                  <img src={IMG4} alt="fist "/>
                 </div>
               </div>
             </div>
